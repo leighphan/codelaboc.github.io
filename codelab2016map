@@ -1,0 +1,389 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "City": "Long Beach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20053100585936,
+          33.774010600658606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "City": "Anaheim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.90596008300781,
+          33.83848275599514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "City": "Brea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.88776397705078,
+          33.920001740102585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "City": "Santa Ana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.87403106689453,
+          33.754031498216385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "City": "Irvine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.82630920410155,
+          33.688924428426475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "City": "Garden Grove"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.94750213623047,
+          33.777720492564896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "City": "Fullerton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.92964935302734,
+          33.87198337170695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "City": "La Puente"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.95110702514647,
+          34.02150632745044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "City": "Rowland Heights"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.90424346923828,
+          33.97909698799342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "City": "La Mirada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.01153182983398,
+          33.90732295880116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "City": "Cerritos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.05479049682617,
+          33.86556937742616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "City": "Downey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.13341140747069,
+          33.9412237914533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "City": "Norwalk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.08551788330078,
+          33.91002982328023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "City": "Huntington Beach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.00380706787108,
+          33.68006833869061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "City": "Pasadena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.14482688903809,
+          34.14810999001598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "City": "Westwood, Los Angeles"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.44463348388672,
+          34.06033924761299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "City": "Walnut"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.86613464355469,
+          34.02164860502129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "City": "Tustin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.82716751098633,
+          33.746752239346094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "City": "Fountain Valley"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.96295166015624,
+          33.704920213014425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "City": "Diamond Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.81103134155272,
+          34.028904444871145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "City": "Yorba Linda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.82424926757811,
+          33.89150745368313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "City": "Artesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.07985305786133,
+          33.86956036384148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "City": "Alhambra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.12843322753906,
+          34.093610452768715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "City": "Westminster"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.98629760742188,
+          33.75888399414572
+        ]
+      }
+    }
+  ]
+}
